@@ -1,0 +1,14 @@
+.button {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background: aquamarine;
+    border: none;
+}
+
+.button:hover {
+    border: 2px solid blue;
+}
